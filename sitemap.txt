@@ -1,3 +1,6 @@
 https://mascaldotfr.github.io/CoRT/index.html
 https://mascaldotfr.github.io/CoRT/bosses.html
 https://mascaldotfr.github.io/CoRT/bz.html
+https://mascaldotfr.github.io/CoRT/wz.html
+https://mascaldotfr.github.io/CoRT/wstats.html
+https://mascaldotfr.github.io/CoRT/wevents.html
