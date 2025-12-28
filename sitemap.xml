@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- index.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/index.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/index.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/index.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/index.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/index.html"/>
+  </url>
+
+  <!-- bosses.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/bosses.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/bosses.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/bosses.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/bosses.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/bosses.html"/>
+  </url>
+
+  <!-- bz.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/bz.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/bz.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/bz.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/bz.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/bz.html"/>
+  </url>
+
+  <!-- wz.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/wz.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/wz.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/wz.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/wz.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/wz.html"/>
+  </url>
+
+  <!-- wstats.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/wstats.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/wstats.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/wstats.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/wstats.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/wstats.html"/>
+  </url>
+
+  <!-- wevents.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/wevents.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/wevents.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/wevents.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/wevents.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/wevents.html"/>
+  </url>
+
+  <!-- quests.html -->
+  <url>
+    <loc>https://mascaldotfr.github.io/CoRT/quests.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://mascaldotfr.github.io/CoRT/quests.html"/>
+    <xhtml:link rel="alternate" hreflang="es" href="https://mascaldotfr.github.io/CoRT/es/quests.html"/>
+    <xhtml:link rel="alternate" hreflang="de" href="https://mascaldotfr.github.io/CoRT/de/quests.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://mascaldotfr.github.io/CoRT/fr/quests.html"/>
+  </url>
+
+</urlset>
